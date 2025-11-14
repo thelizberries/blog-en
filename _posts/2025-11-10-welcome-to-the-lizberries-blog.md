@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to the Lizberries blog"
 date: 2025-11-10
-image: /assets/images/theLizberries.webp
+image: /assets/images/posts/theLizberries.webp
 original_file: "2025-11-09-welcome.md"
 ---
 Hi everyone!👋
