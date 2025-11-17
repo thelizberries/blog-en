@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rehearsals in the room — energy and fun"
+title: "Rehearsals — energy and fun"
 date: 2025-11-07
 image: /assets/images/posts/rehearsal.webp
 original_file: "2025-11-07-prove-in-sala.md"
